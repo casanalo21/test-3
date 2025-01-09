@@ -228,6 +228,41 @@
           <dmn:text></dmn:text>
         </dmn:annotationEntry>
       </dmn:rule>
+      <dmn:rule id="_FA3AA6E2-5B4E-4AD7-B8C7-0BC929845446">
+        <dmn:inputEntry id="_A2F68B30-83BB-4A16-9850-2242D667CE35">
+          <dmn:text>=65</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_DE8EC74C-5AC0-4998-AD37-51F30E1C9307">
+          <dmn:text>-</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_709622CE-4A4F-47E9-9672-9FF5E710872D">
+          <dmn:text>-</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_0045E552-77F4-4893-9DF1-CA1CEE1AE414">
+          <dmn:text>-</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_4DD857A1-5084-41F9-86EE-B600AADAC5AC">
+          <dmn:text>-</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_28C608A4-CED3-4059-9A79-B4F7EAB07AFE">
+          <dmn:text>-</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_2E9A711E-F29B-4D19-854E-C260EF2BC6F5">
+          <dmn:text>-</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_404FC033-5BAF-4C4A-8A52-4CF85BD64D9B">
+          <dmn:text>-</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_091F5089-1C86-4D88-B019-CCE718F8EA6A">
+          <dmn:text>-</dmn:text>
+        </dmn:inputEntry>
+        <dmn:outputEntry id="_DC65E524-1B41-41E0-893A-6CE5F78A9EFB">
+          <dmn:text>false</dmn:text>
+        </dmn:outputEntry>
+        <dmn:annotationEntry>
+          <dmn:text></dmn:text>
+        </dmn:annotationEntry>
+      </dmn:rule>
     </dmn:decisionTable>
   </dmn:decision>
   <dmndi:DMNDI>
