@@ -120,7 +120,7 @@
           <dmn:text>false</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
-          <dmn:text>Test to commit</dmn:text>
+          <dmn:text></dmn:text>
         </dmn:annotationEntry>
       </dmn:rule>
       <dmn:rule id="_F320AF36-5FE3-41A3-977C-F7A0A1D1960D">
