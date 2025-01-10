@@ -309,5 +309,12 @@
         <di:waypoint x="460" y="265" />
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
+    <dmndi:DMNDiagram id="_5D23A389-58BF-4E1C-A2CB-BCB8E2541083" name="Unnamed DRD" useAlternativeInputDataShape="false">
+      <di:extension>
+        <kie:ComponentsWidthsExtension>
+          <kie:ComponentWidths />
+        </kie:ComponentsWidthsExtension>
+      </di:extension>
+    </dmndi:DMNDiagram>
   </dmndi:DMNDI>
 </dmn:definitions>
